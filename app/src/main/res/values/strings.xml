@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lefteris Kiourtsidakis\' Shop</string>
+    <string name="home_text">Best female fashion</string>
+    <string name="home_login">Login</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="remember_me_checkbox">Remember me</string>
+    <string name="login_login">Login</string>
+    <string name="shoes">shoes</string>
+    <string name="dress">dress</string>
+    <string name="dresses">Dresses</string>
+    <string name="female_shoes">Female Shoes</string>
+    <string name="glasses">glasses</string>
+    <string name="sunglasses">Sunglasses</string>
+    <string name="watches">watches</string>
+    <string name="female_watches">Female Watches</string>
+    <string name="dressPara">A dress (also known as a frock or a gown) is a garment traditionally worn by women or girls consisting of a skirt with an attached bodice (or a matching bodice giving the effect of a one-piece garment). It consists of a top piece that covers the torso and hangs down over the legs. A dress can be any one-piece garment containing a skirt of any length, and can be formal or casual. A dress can have sleeves, straps, or be held up with elastic around the chest, leaving the shoulders bare. Dresses also vary in color. The hemlines of dresses vary depending on modesty, weather, fashion or the personal taste of the wearer.</string>
+    <string name="shoesPara">A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion. The design of shoes has varied enormously through time and from culture to culture, with form originally being tied to function. Though the human foot can adapt to varied terrains and climate conditions, it is still vulnerable to environmental hazards such as sharp rocks and temperature extremes, which shoes protect against. Some shoes are worn as safety equipment, such as steel-toe boots which are required footwear at industrial worksites. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.</string>
+    <string name="watchesPara">A watch is a portable timepiece intended to be carried or worn by a person. It is designed to keep a consistent movement despite the motions caused by the person\'s activities. A wristwatch is designed to be worn around the wrist, attached by a watch strap or other type of bracelet, including metal bands, leather straps or any other kind of bracelet. A pocket watch is designed for a person to carry in a pocket, often attached to a chain. Watches were developed in the 17th century from spring-powered clocks, which appeared as early as the 14th century.</string>
+    <string name="sunglassesPara">Sunglasses or sun glasses (informally called shades or sunnies; more names below) are a form of protective eyewear designed primarily to prevent bright sunlight and high-energy visible light from damaging or discomforting the eyes. They can sometimes also function as a visual aid, as variously termed spectacles or glasses exist, featuring lenses that are colored, polarized or darkened. In the early 20th century, they were also known as sun cheaters (cheaters then being an American slang term for glasses).</string>
+    <string name="logout">Logout</string>
+
+
+</resources>
